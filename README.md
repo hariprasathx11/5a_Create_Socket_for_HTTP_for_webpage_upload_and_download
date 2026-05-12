@@ -1,6 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-## NAME : HIRUTHIK SUDHAKAR
-## REGISTER NUMBER : 212223240054
+## NAME : HARIPRASATH.S
+## REGISTER NUMBER : 212225040114
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
